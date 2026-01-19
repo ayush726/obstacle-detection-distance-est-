@@ -1,0 +1,9 @@
+ultralytics
+opencv-python
+numpy
+onnxruntime
+onnx>=1.12.0
+onnxslim>=0.1.71
+torch
+tqdm
+pyyaml

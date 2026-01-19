@@ -1,0 +1,20 @@
+path: C:/Users/KIIT/Documents/projects/model/dataset/bdd100k/bdd100k
+train: images/100k/train
+val: images/100k/val
+test: 
+
+nc: 13
+names: 
+  0: bike
+  1: bus
+  2: car
+  3: traffic light
+  4: motorcycle
+  5: person
+  6: rider
+  7: traffic sign
+  8: train
+  9: truck
+  10: other_vehicle
+  11: trailer
+  12: other

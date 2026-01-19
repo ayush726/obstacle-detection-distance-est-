@@ -1,0 +1,20 @@
+# System
+__pycache__/
+*.DS_Store
+
+# Virtual Environment
+.venv/
+env/
+venv/
+
+# Large Data (Do not upload 20k images!)
+dataset/
+# output/ # Uncommented so you can upload your results!
+
+# Logs
+local_run/
+runs/
+
+# Debugging Scripts
+inspect_labels.py
+inspect_labels_v2.py
