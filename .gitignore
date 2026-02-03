@@ -18,3 +18,7 @@ runs/
 # Debugging Scripts
 inspect_labels.py
 inspect_labels_v2.py
+
+# AI Models
+*.pt
+*.onnx
